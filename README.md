@@ -50,6 +50,7 @@ Tree_JaccardIndex is :- 0.3923076923076923
 Tree_F1_Score is :- 0.56353591160221
 
 4) Logistic Regression
+   
 LR Accuracy Score by predict method is:- 0.8259541984732824
 LR Accuracy Score by predict_proba method is:- 0.8259541984732824
 LR Jaccard Index by predict method is:- 0.47706422018348627
@@ -58,8 +59,9 @@ LR F1 Score by predict method is: - 0.6459627329192547
 LR F1 Score by predict_proba method is:- 0.6459627329192547
 LR Log Loss by predict_proba method is:- 0.3880358597324609
 
-5) SVM ( Support vector Machine) :-
-Metric Value
-A_SC 83.816794
-J_SCR 0.506977
-F1_SCR 0.672840
+6) SVM ( Support vector Machine) :-
+   
+Metric  Value
+* A_SC  83.816794
+* J_SCR  0.506977
+* F1_SCR 0.672840
